@@ -1,4 +1,4 @@
-# calculadora
+# Calculadora
 
 ---
 **Author:** Cristina Alencar <cristinalencar@gmail.com>
